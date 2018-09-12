@@ -31,7 +31,7 @@ Reading: Resources: Common issues with free text
 
 Notebook: Assignment 1
 
-Show less
+
 
 Graded: Module 1 Quiz
 
@@ -53,8 +53,6 @@ Practice Quiz: Practice Quiz
 Discussion Prompt: Finding your own prepositional phrase attachment
 
 Notebook: Assignment 2
-
-Show less
 
 Graded: Module 2 Quiz
 
