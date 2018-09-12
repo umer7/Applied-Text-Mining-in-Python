@@ -2,22 +2,39 @@
 
 ### Module 1: Working with Text in Python
 5 videos, 4 readings, 1 practice quiz
+
 Reading: Course Syllabus
+
 Reading: Help us learn more about you!
+
 Video: Introduction to Text Mining
+
 Video: Handling Text in Python
+
 Reading: Notice for Auditing Learners: Assignment Submission
+
 Notebook: Working with Text
+
 Video: Regular Expressions
+
 Notebook: Regex with Pandas and Named Groups
+
 Video: Demonstration: Regex with Pandas and Named Groups
+
 Practice Quiz: Practice Quiz
+
 Video: Internationalization and Issues with Non-ASCII Characters
+
 Discussion Prompt: Introduce Yourself
+
 Reading: Resources: Common issues with free text
+
 Notebook: Assignment 1
+
 Show less
+
 Graded: Module 1 Quiz
+
 Graded: Assignment 1 Submission
 
 ### Module 2: Basic Natural Language Processing
