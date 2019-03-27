@@ -106,6 +106,8 @@ Graded: Module 4 Quiz
 
 Graded: Assignment 4 Submission
 
+
+### Note
 For any Query you can [Contact me][1]
 
 [1]: mailto:umerfarooq807@gmail.com
