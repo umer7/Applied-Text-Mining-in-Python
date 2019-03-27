@@ -105,3 +105,7 @@ Reading: Post-Course Survey
 Graded: Module 4 Quiz
 
 Graded: Assignment 4 Submission
+
+For any Query you can [Contact me][1]
+
+[1]: mailto:umerfarooq807@gmail.com
